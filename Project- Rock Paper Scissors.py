@@ -32,4 +32,4 @@ print("Game Over. Thanks for playing!")
 
 # If you love tis game then please give a star⭐ to this repository on GitHub!
 # GitHub Repository Link:
-# 
+# https://github.com/Codewithsatyarth/Rock-Paper-Scissors-
